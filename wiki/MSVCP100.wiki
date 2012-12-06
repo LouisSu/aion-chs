@@ -1,4 +1,4 @@
-#关于WindowsXP下MSVCP100.dll问题解决方法.
+#If you have any problem to run chs-pack in WindowsXP(MSVCP100.dll).
 
 = Details =
 
