@@ -1,0 +1,9 @@
+#If you have any problem to run chs-pack in WindowsXP(MSVCP100.dll).
+
+# Details #
+
+此问题仅出现在WINDOWS 7以下版本，原因据分析是你可能安装的windows系统为ghost版或者精简版。
+
+# 解决方法 #
+输入以下网址后下载你系统对应的C++运行时即可
+http://www.microsoft.com/zh-cn/download/details.aspx?id=5555
